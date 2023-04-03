@@ -3,7 +3,7 @@
 ### :woman_technologist: About Me :
 - :telescope: I apply data science and computational science for technology development.
 
-- :mailbox:How to reach me: [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="15" >](https://www.linkedin.com/in/arunamohan/)
+- :mailbox:How to reach me: [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="18">](https://www.linkedin.com/in/arunamohan/)
 ---
 ### :desktop_computer: Programming Languages:
 <div>
