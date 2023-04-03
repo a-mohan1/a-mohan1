@@ -1,6 +1,6 @@
 ### Hi there! 👋
 ---
-### :woman_technologist: About Me :
+### :woman_technologist: About Me:
 - :telescope: I apply data science and computational science for technology development.
 
 - :mailbox:How to reach me: [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="18">](https://www.linkedin.com/in/arunamohan/)
@@ -12,7 +12,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="40" height="40"/>&nbsp;
 <div>
-
+---
 ### :toolbox: Data Science and ML Tools:
 <div>
   <img src="https://img.shields.io/badge/-numpy-informational?style=flat&logo=numpy&logoColor=013243&color=DCDCDC" title="NumPy" alt="NumPy"/>&nbsp;
@@ -23,8 +23,8 @@
   <img src="https://img.shields.io/badge/-pytorch-informational?style=flat&logo=pytorch&logoColor=EE4C2C&color=DCDCDC" title="PyTorch" alt="PyTorch"/>&nbsp;
   <img src="https://img.shields.io/badge/-sql-informational?style=flat&logo=sql&logoColor=013243&color=DCDCDC" title="SQL" alt="SQL"/>&nbsp;
 <div>
- 
- ### :hammer_and_wrench: Programming Environments and Tools:
+--- 
+### :hammer_and_wrench: Programming Environments and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
