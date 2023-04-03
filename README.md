@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/-scikitlearn-informational?style=flat&logo=scikit-learn&logoColor=F7931E&color=DCDCDC" title="scikit-learn" alt="scikit-learn"/>&nbsp;
   <img src="https://img.shields.io/badge/-tensorflow-informational?style=flat&logo=tensorflow&logoColor=FF6F00&color=DCDCDC" title="TensorFlow" alt="TensorFlow"/>&nbsp;
   <img src="https://img.shields.io/badge/-pytorch-informational?style=flat&logo=pytorch&logoColor=EE4C2C&color=DCDCDC" title="PyTorch" alt="PyTorch"/>&nbsp;
-  <img src="https://img.shields.io/badge/-sql-informational?style=flat&logo=sql&logoColor=013243&color=DCDCDC" title="SQL" alt="SQL"/>&nbsp;
+  <img src="https://img.shields.io/badge/-SQL-informational?style=flat&logo=SQL&logoColor=013243&color=DCDCDC" title="SQL" alt="SQL"/>&nbsp;
 <div>
 
 ### :hammer_and_wrench: Programming Environments and Tools:
