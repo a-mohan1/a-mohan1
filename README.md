@@ -12,7 +12,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="40" height="40"/>&nbsp;
 <div>
----
+
 ### :toolbox: Data Science and ML Tools:
 <div>
   <img src="https://img.shields.io/badge/-numpy-informational?style=flat&logo=numpy&logoColor=013243&color=DCDCDC" title="NumPy" alt="NumPy"/>&nbsp;
@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/-pytorch-informational?style=flat&logo=pytorch&logoColor=EE4C2C&color=DCDCDC" title="PyTorch" alt="PyTorch"/>&nbsp;
   <img src="https://img.shields.io/badge/-sql-informational?style=flat&logo=sql&logoColor=013243&color=DCDCDC" title="SQL" alt="SQL"/>&nbsp;
 <div>
---- 
+
 ### :hammer_and_wrench: Programming Environments and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
