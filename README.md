@@ -3,7 +3,10 @@
 ### :woman_technologist: About Me:
 - :telescope: I leverage data science and computational science for technology development.
 
-- :mailbox:How to reach me: [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20">](https://www.linkedin.com/in/arunamohan/)
+- :mailbox: How to reach me: [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20">](https://www.linkedin.com/in/arunamohan/)
+
+- :scroll: View my portfolio: [<img src="https://img.shields.io/badge/GitHubPages-100000?style=for-the-badge&logo=github&logoColor=white" height="20">](https://a-mohan1.github.io)
+
 ---
 ### :desktop_computer: Programming Languages:
 <div>
