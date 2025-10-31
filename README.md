@@ -1,7 +1,7 @@
 ### Hi there! 👋
 ---
 ### 👩‍💻 About Me:
-- 🔭 I leverage data science and computational science for technology development.
+- 🔭 I leverage machine learning, data science and computational science for technology development.
 
 - 📫 How to reach me: [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20">](https://www.linkedin.com/in/arunamohan/)
 
@@ -16,7 +16,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="30" height="30"/>&nbsp;
 <div>
 
-### 🧰 Data Science and ML Tools:
+### 🧰 Data Science and Machine Learning Tools:
 <div>
   <img src="https://img.shields.io/badge/-NumPy-informational?style=flat&logo=numpy&logoColor=013243&color=DCDCDC" title="NumPy" alt="NumPy"/>&nbsp;
   <img src="https://img.shields.io/badge/-Pandas-informational?style=flat&logo=pandas&logoColor=150458&color=DCDCDC" title="Pandas" alt="Pandas"/>&nbsp;
