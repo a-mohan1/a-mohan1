@@ -18,22 +18,22 @@
 
 ### 🧰 Machine Learning and Data Science Tools:
 <div>
-  <img src="https://img.shields.io/badge/-NumPy-informational?style=flat&logo=numpy&logoColor=013243&color=DCDCDC" title="NumPy" alt="NumPy"/>&nbsp;
   <img src="https://img.shields.io/badge/-Pandas-informational?style=flat&logo=pandas&logoColor=150458&color=DCDCDC" title="Pandas" alt="Pandas"/>&nbsp;
+  <img src="https://img.shields.io/badge/-NumPy-informational?style=flat&logo=numpy&logoColor=013243&color=DCDCDC" title="NumPy" alt="NumPy"/>&nbsp;
   <img src="https://img.shields.io/badge/-SciPy-informational?style=flat&logo=scipy&logoColor=8CAAE6&color=DCDCDC" title="SciPy" alt="SciPy"/>&nbsp;
   <img src="https://img.shields.io/badge/-Scikitlearn-informational?style=flat&logo=scikit-learn&logoColor=F7931E&color=DCDCDC" title="scikit-learn" alt="scikit-learn"/>&nbsp;
+  <img src="https://img.shields.io/badge/-XGBoost-informational?style=flat&logo=xgboost&logoColor=189fdd&color=DCDCDC" title="XGBoost" alt="XGBoost"/>&nbsp;
   <img src="https://img.shields.io/badge/-PyTorch-informational?style=flat&logo=pytorch&logoColor=EE4C2C&color=DCDCDC" title="PyTorch" alt="PyTorch"/>&nbsp;
   <img src="https://img.shields.io/badge/-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=FF6F00&color=DCDCDC" title="TensorFlow" alt="TensorFlow"/>&nbsp;
   <img src="https://img.shields.io/badge/-Keras-informational?style=flat&logo=keras&logoColor=D00000&color=DCDCDC" title="Keras" alt="Keras"/>&nbsp;
-  <img src="https://img.shields.io/badge/-XGBoost-informational?style=flat&logo=xgboost&logoColor=189fdd&color=DCDCDC" title="XGBoost" alt="XGBoost"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Optuna-informational?style=flat&logo=optuna&logoColor=3B4D98&color=DCDCDC" title="Optuna" alt="Optuna"/>&nbsp;
+  <img src="https://img.shields.io/badge/-MLflow-informational?style=flat&logo=mlflow&logoColor=0194E2&color=DCDCDC" title="MLflow" alt="MLflow"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Prefect-informational?style=flat&logo=prefect&logoColor=024DFD&color=DCDCDC" title="Prefect" alt="Prefect"/>&nbsp;
   <img src="https://img.shields.io/badge/-Matplotlib-informational?style=flat&logo=matplotlib&logoColor=11557c&color=DCDCDC" title="Matplotlib" alt="Matplotlib"/>&nbsp;
   <img src="https://img.shields.io/badge/-Seaborn-informational?style=flat&logo=seaborn&logoColor=4c72b0&color=DCDCDC" title="Seaborn" alt="Seaborn"/>&nbsp;
   <img src="https://img.shields.io/badge/-Plotly-informational?style=flat&logo=plotly&logoColor=3F4F75&color=DCDCDC" title="Plotly" alt="Plotly"/>&nbsp;
   <img src="https://img.shields.io/badge/-Dash-informational?style=flat&logo=plotly&logoColor=013243&color=DCDCDC" title="dash" alt="dash"/>&nbsp;
   <img src="https://img.shields.io/badge/-Flask-informational?style=flat&logo=flask&logoColor=000000&color=DCDCDC" title="Flask" alt="Flask"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Optuna-informational?style=flat&logo=optuna&logoColor=3B4D98&color=DCDCDC" title="Optuna" alt="Optuna"/>&nbsp;
-  <img src="https://img.shields.io/badge/-MLflow-informational?style=flat&logo=mlflow&logoColor=0194E2&color=DCDCDC" title="MLflow" alt="MLflow"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Prefect-informational?style=flat&logo=prefect&logoColor=024DFD&color=DCDCDC" title="Prefect" alt="Prefect"/>&nbsp;
   <img src="https://img.shields.io/badge/-SQL-informational?style=flat&logo=microsoftsqlserver&logoColor=013243&color=DCDCDC" title="SQL" alt="SQL"/>&nbsp;
   <img src="https://img.shields.io/badge/-Snowflake-informational?style=flat&logo=snowflake&logoColor=29B5E8&color=DCDCDC" title="Snowflake" alt="Snowflake"/>&nbsp;
 <div>
