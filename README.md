@@ -36,28 +36,13 @@
   <img src="https://img.shields.io/badge/-Linux-informational?style=flat&logo=linux&logoColor=FCC624&color=DCDCDC" title="Linux" alt="Linux"/>&nbsp;
   <img src="https://img.shields.io/badge/-Vim-informational?style=flat&logo=vim&logoColor=019733&color=DCDCDC" title="Vim" alt="Vim"/>&nbsp;
   <img src="https://img.shields.io/badge/-Bash-informational?style=flat&logo=gnubash&logoColor=4EAA25&color=DCDCDC" title="Bash" alt="Bash"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Git-informational?style=flat&logo=git&logoColor=F05032&color=DCDCDC" title="Git" alt="Git"/>&nbsp;
   <img src="https://img.shields.io/badge/-Docker-informational?style=flat&logo=docker&logoColor=2496ED&color=DCDCDC" title="Docker" alt="Docker"/>&nbsp;
+  <img src="https://img.shields.io/badge/-GitHub-informational?style=flat&logo=github&logoColor=181717&color=DCDCDC" title="GitHub" alt="GitHub"/>&nbsp;
+<img src="https://img.shields.io/badge/-GitHub%20Actions-informational?style=flat&logo=githubactions&logoColor=2088FF&color=DCDCDC" title="GitHub Actions" alt="GitHub Actions"/>&nbsp;
   <img src="https://img.shields.io/badge/-AWS-informational?style=flat&logo=amazonwebservices&logoColor=FF9900&color=DCDCDC" title="AWS" alt="AWS"/>&nbsp;
   <img src="https://img.shields.io/badge/-LaTeX-informational?style=flat&logo=latex&logoColor=008080&color=DCDCDC" title="LaTeX" alt="LaTeX"/>&nbsp;
 </div>
 
-
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="anaconda" alt="anaconda" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="vim" alt="vim" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTex" width="30" height="30"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" title="LaTeX" alt="LaTex" width="30" height="30"/>&nbsp;
-  <img src="https://img.shields.io/badge/-Docker-informational?style=flat&logo=docker&logoColor=013243&color=DCDCDC" title="docker" alt="docker"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//docker/docker-original.svg" title="docker" alt="docker" width="30" height="30"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="30" height="30"/>&nbsp;
-<div>
 
 <!--
 **a-mohan1/a-mohan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
