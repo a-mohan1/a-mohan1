@@ -42,10 +42,7 @@
   <img src="https://img.shields.io/badge/-LaTeX-informational?style=flat&logo=latex&logoColor=008080&color=DCDCDC" title="LaTeX" alt="LaTeX"/>&nbsp;
 </div>
 
-```
-**How the URL works** so you can customize:
-https://img.shields.io/badge/-{LABEL}-informational?style=flat&logo={LOGO}&logoColor={COLOR}&color=DCDCDC
-```
+
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="30" height="30"/>&nbsp;
@@ -70,6 +67,7 @@ https://www.sitepoint.com/github-profile-readme/
 https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7
 https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 https://unicode.party/
+https://img.shields.io/badge/-{LABEL}-informational?style=flat&logo={LOGO}&logoColor={COLOR}&color=DCDCDC
 
 Here are some ideas to get you started:
 
