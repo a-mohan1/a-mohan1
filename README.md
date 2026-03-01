@@ -30,6 +30,24 @@
 
 ### 🛠️ Programming Environments and Tools:
 <div>
+  <img src="https://img.shields.io/badge/-PyCharm-informational?style=flat&logo=pycharm&logoColor=000000&color=DCDCDC" title="PyCharm" alt="PyCharm"/>&nbsp;
+  <img src="https://img.shields.io/badge/-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=007ACC&color=DCDCDC" title="VSCode" alt="VSCode"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Anaconda-informational?style=flat&logo=anaconda&logoColor=44A833&color=DCDCDC" title="Anaconda" alt="Anaconda"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Linux-informational?style=flat&logo=linux&logoColor=FCC624&color=DCDCDC" title="Linux" alt="Linux"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Vim-informational?style=flat&logo=vim&logoColor=019733&color=DCDCDC" title="Vim" alt="Vim"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Bash-informational?style=flat&logo=gnubash&logoColor=4EAA25&color=DCDCDC" title="Bash" alt="Bash"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Git-informational?style=flat&logo=git&logoColor=F05032&color=DCDCDC" title="Git" alt="Git"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Docker-informational?style=flat&logo=docker&logoColor=2496ED&color=DCDCDC" title="Docker" alt="Docker"/>&nbsp;
+  <img src="https://img.shields.io/badge/-AWS-informational?style=flat&logo=amazonwebservices&logoColor=FF9900&color=DCDCDC" title="AWS" alt="AWS"/>&nbsp;
+  <img src="https://img.shields.io/badge/-LaTeX-informational?style=flat&logo=latex&logoColor=008080&color=DCDCDC" title="LaTeX" alt="LaTeX"/>&nbsp;
+</div>
+
+```
+**How the URL works** so you can customize:
+https://img.shields.io/badge/-{LABEL}-informational?style=flat&logo={LOGO}&logoColor={COLOR}&color=DCDCDC
+```
+
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="30" height="30"/>&nbsp;
