@@ -3,9 +3,9 @@
 ### 👩‍💻 About Me:
 - 🔭 I leverage machine learning, data science, and computational science for technology development.
 
-- 📫 How to reach me: [<img src="https://img.shields.io/badge/-LinkedIn-informational?style=flat&logo=linkedin&logoColor=0A66C2&color=DCDCDC" title="LinkedIn" alt="LinkedIn"/>&nbsp;](https://www.linkedin.com/in/arunamohan/) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20">](https://www.linkedin.com/in/arunamohan/)
+- 📫 How to reach me: [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="20">](https://www.linkedin.com/in/arunamohan/)
 
-- 📜 View my portfolio: [<img src="https://img.shields.io/badge/-GitHub%20Pages-informational?style=flat&logo=githubpages&logoColor=222222&color=DCDCDC" title="GitHub Pages" alt="GitHub Pages"/>&nbsp;](https://a-mohan1.github.io) [<img src="https://img.shields.io/badge/GitHubPages-100000?style=for-the-badge&logo=github&logoColor=white" height="20">](https://a-mohan1.github.io)
+- 📜 View my portfolio: [<img src="https://img.shields.io/badge/GitHubPages-100000?style=for-the-badge&logo=github&logoColor=white" height="20">](https://a-mohan1.github.io)
 
 ---
 ### 🖥️ Programming Languages:
