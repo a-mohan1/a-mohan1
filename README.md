@@ -38,6 +38,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTex" width="30" height="30"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" title="LaTeX" alt="LaTex" width="30" height="30"/>&nbsp;
+  <img src="https://img.shields.io/badge/-Docker-informational?style=flat&logo=docker&logoColor=013243&color=DCDCDC" title="docker" alt="docker"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//docker/docker-original.svg" title="docker" alt="docker" width="30" height="30"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="30" height="30"/>&nbsp;
 <div>
 
 <!--
