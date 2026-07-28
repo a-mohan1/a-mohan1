@@ -14,7 +14,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="30" height="30"/>&nbsp;
-<div>
+</div>
 
 ### 🧰 Machine Learning and Data Science Tools:
 <div>
@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/-Flask-informational?style=flat&logo=flask&logoColor=000000&color=DCDCDC" title="Flask" alt="Flask"/>&nbsp;
   <img src="https://img.shields.io/badge/-SQL-informational?style=flat&logo=microsoftsqlserver&logoColor=013243&color=DCDCDC" title="SQL" alt="SQL"/>&nbsp;
   <img src="https://img.shields.io/badge/-Snowflake-informational?style=flat&logo=snowflake&logoColor=29B5E8&color=DCDCDC" title="Snowflake" alt="Snowflake"/>&nbsp;
-<div>
+</div>
 
 ### 🛠️ Programming Environments and Tools:
 <div>
