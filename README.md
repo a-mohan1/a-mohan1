@@ -9,13 +9,14 @@
 
 ---
 ### 🖥️ Programming Languages:
-<img src="icons/python.svg" height="28" alt="Python"> <img src="icons/cplusplus.svg" height="28" alt="C++"> <img src="icons/c.svg" height="28" alt="C"> <img src="icons/matlab.svg" height="28" alt="MATLAB">
+![Programming Languages](icons_row_languages.png)
 
 ### 🧰 Machine Learning and Data Science Tools:
-<img src="icons/pandas.svg" height="28" alt="Pandas"> <img src="icons/numpy.svg" height="28" alt="NumPy"> <img src="icons/scipy.svg" height="28" alt="SciPy"> <img src="icons/scikitlearn.svg" height="28" alt="scikit-learn"> <img src="icons/xgboost.svg" height="28" alt="XGBoost"> <img src="icons/pytorch.svg" height="28" alt="PyTorch"> <img src="icons/tensorflow.svg" height="28" alt="TensorFlow"> <img src="icons/keras.svg" height="28" alt="Keras"> <img src="icons/optuna.svg" height="28" alt="Optuna"> <img src="icons/mlflow.svg" height="28" alt="MLflow"> <img src="icons/prefect.svg" height="28" alt="Prefect"> <img src="icons/matplotlib.svg" height="28" alt="Matplotlib"> <img src="icons/seaborn.svg" height="28" alt="Seaborn"> <img src="icons/plotly.svg" height="28" alt="Plotly"> <img src="icons/dash.svg" height="28" alt="dash"> <img src="icons/flask.svg" height="28" alt="Flask"> <img src="icons/sql.svg" height="28" alt="SQL"> <img src="icons/snowflake.svg" height="28" alt="Snowflake">
+![Machine Learning and Data Science Tools](icons_row_mltools.png)
 
 ### 🛠️ Programming Environments and Tools:
-<img src="icons/vscode.svg" height="28" alt="VSCode"> <img src="icons/pycharm.svg" height="28" alt="PyCharm"> <img src="icons/anaconda.svg" height="28" alt="Anaconda"> <img src="icons/linux.svg" height="28" alt="Linux"> <img src="icons/vim.svg" height="28" alt="Vim"> <img src="icons/gnubash.svg" height="28" alt="Bash"> <img src="icons/docker.svg" height="28" alt="Docker"> <img src="icons/github.svg" height="28" alt="GitHub"> <img src="icons/githubactions.svg" height="28" alt="GitHub Actions"> <img src="icons/amazonwebservices.svg" height="28" alt="AWS"> <img src="icons/latex.svg" height="28" alt="LaTeX">
+![Programming Environments and Tools](icons_row_envtools.png)
+
 
 <!--
 **a-mohan1/a-mohan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -38,4 +39,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
