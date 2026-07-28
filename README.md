@@ -9,13 +9,13 @@
 
 ---
 ### 🖥️ Programming Languages:
-![Programming Languages](icons_row_languages.png)
+![Programming Languages](icons/icons_row_languages.png)
 
 ### 🧰 Machine Learning and Data Science Tools:
-![Machine Learning and Data Science Tools](icons_row_mltools.png)
+![Machine Learning and Data Science Tools](icons/icons_row_mltools.png)
 
 ### 🛠️ Programming Environments and Tools:
-![Programming Environments and Tools](icons_row_envtools.png)
+![Programming Environments and Tools](icons/icons_row_envtools.png)
 
 
 <!--
